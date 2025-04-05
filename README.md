@@ -19,9 +19,33 @@ The term was coined by Andrej Karpathy in early 2025 to describe “fully giving
 [See](https://www.reddit.com/r/ChatGPTCoding/comments/1ihocsv/vibes_coding/#:~:text=,grows%20beyond%20my%20usual%20comprehension)
 
 
--   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383)  - "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. (.) I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works".
+-   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383)  - "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. (.) I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works".AI coding assistants
 
+## AI Coding Assistants
 
+> These assistants generally aim to streamline the coding process by offering intelligent suggestions and automating repetitive tasks.
+
+- GitHub Copilot,
+- Tabnine,
+- Cursor AI,
+- Sourcegraph Cody,
+- Replit,
+- Codiga,
+- Amazon Q Developer,
+- OpenAI Codex,
+- Codeium.
+- Amazon CodeWhisperer,
+- CodeT5,
+- DeepCode AI (Snyk),
+- Amazon SageMaker,
+- AskCodi,
+- Microsoft IntelliCode,
+- CodeGeeX,
+- MutableAI,
+- Qodo,
+- CodeRabbit,
+- CodeMate,
+- Windsurf
 ## Tools
 
 - [same.dev](https://same.dev/) -
