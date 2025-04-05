@@ -1,6 +1,6 @@
 # Awesome Vibe Coding
 
-> A curated list of vibe coding references for learning how to efficently collaborate with AI to write code. I.e prompt enginnering for developers.
+> A curated list of vibe coding assistants, IDEs, tools and references for learning how to efficently collaborate with AI to write code. I.e prompt enginnering for developers.
 
 ## Contents
 
