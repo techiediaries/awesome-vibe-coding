@@ -23,7 +23,14 @@ The term was coined by Andrej Karpathy in early 2025 to describe “fully giving
 
 ## AI Coding Assistants
 
-> These assistants generally aim to streamline the coding process by offering intelligent suggestions and automating repetitive tasks.
+These assistants generally aim to streamline the coding process by offering intelligent suggestions and automating repetitive tasks.
+AI coding assistants offer a range of core functionalities designed to enhance the software development process:
+
+- Code Completion and Suggestions
+- Natural Language to Code Conversion (Programming by Prompt)
+- AI Chat and Explanations
+
+### Assistants
 
 - GitHub Copilot,
 - Tabnine,
@@ -46,7 +53,8 @@ The term was coined by Andrej Karpathy in early 2025 to describe “fully giving
 - CodeRabbit,
 - CodeMate,
 - Windsurf
-## Tools
+
+## Cloud-Based Tools
 
 - [same.dev](https://same.dev/) -
 - [Replit](https://replit.com/)  - "simply describe your idea above and let the Agent build it for you".
@@ -55,8 +63,122 @@ The term was coined by Andrej Karpathy in early 2025 to describe “fully giving
 - [v0 by Vercel](https://v0.dev/chat)  - assistant to build NextJS frontend.
 
 ## IDEs
--   [Cursor](https://www.cursor.com/)  - AI Code Editor, "the best way to code with AI".
--   [Windsurf Editor by Codeium](https://codeium.com/windsurf)  - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
+
+These IDEs are specifically designed with AI at their core:
+
+- [Cursor](https://www.cursor.com/)  - AI Code Editor, "the best way to code with AI".
+- [Windsurf Editor by Codeium](https://codeium.com/windsurf)  - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
+- Trae
+
+## IDEs with Built-in AI Assistance or Plugins
+
+These IDEs support AI assistance either natively or through popular plugins like those for GitHub Copilot and Tabnine:
+
+- Visual Studio Code,
+- JetBrains IDEs (including IntelliJ IDEA, PyCharm, Rider, and WebStorm),
+- GitHub Codespaces,
+- Neovim 
+
+## Programming by Prompt Tools
+
+The paradigm of programming by prompt, or natural language to code conversion, is gaining traction, with several tools and frameworks facilitating this approach:
+
+- GitHub Spark: enables users to create micro applications using intuitive natural language instructions, abstracting away the complexities of traditional coding
+- CodeT5: notable for its ability to translate natural language descriptions into functional code snippets
+- OpenAI Codex: developed by OpenAI, powers GitHub Copilot and can understand and generate code in various programming languages based on natural language prompts
+- ChatGPT: another offering from OpenAI, has demonstrated remarkable capabilities in understanding and generating human-like text, making it a versatile tool for various coding tasks through prompt engineering
+- Claude
+- DeepSeek
+- Gemini
+- GPT Engineer
+- PromptPerfect
+- Replicate
+- Promptable
+- Mirascope
+- Guidance
+- Haystack
+- AIPRM
+- PromptHub
+- OpenAI Playground
+
+## Marketplaces
+
+Marketplaces for creating, sharing, and discovering effective prompts for AI models, including those used for code generation:
+
+- PromptBase
+- PromptHero 
+
+## AI-Powered UX/UI Design Tools
+
+The field of UX/UI design is also experiencing a significant impact from AI, with the emergence of tools designed to assist designers in various stages of the design process:
+
+- Uizard: focuses on translating design ideas into reality without the need for manual coding
+- Uizard's Wireframe Scanner: can digitize hand-drawn wireframes, and its Screenshot Scanner can turn screenshots into editable mockups. 
+- Attention Insight,
+- UX Pilot: aims to provide superfast UX/UI design capabilities through the use of AI
+- UX Pilot's Hifi Designer: can instantly create high-fidelity UI designs in seconds using AI
+- Motiff: offers an AI-powered professional interface design tool with a focus on efficiency and collaboration.
+- Motiff AI Layout: helps in creating structured designs, and an AI Magic Box that suggests the best-fitting UI component based on a dragged box and a text prompt
+- Visily: make UI design software accessible to everyone, regardless of their design expertise. Visily's Text to Design feature can convert text prompts into fully customizable high-fidelity UI designs, eliminating the need to start from a blank canvas.
+- Visily's Sketch to Design and Screenshot to Design features: allow users to upload sketches or screenshots and convert them into modifiable digital designs.
+- Visual Copilot: a Figma plugin that handles the code generation process, converting Figma designs into clean, production-ready code
+
+  
+## Extra
+
+LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
+
+
+
+## Prompt Engineering Best Practices for Code Generation
+
+**Be Specific**
+
+Clearly define the programming language and functionality needed.
+
+"Write a Python function named `calculate_factorial` that takes an integer `n` as input and returns its factorial." 
+
+**Provide Context**
+
+Include relevant background information, libraries, or frameworks being used.
+
+"Write a JavaScript function using the React library to toggle the visibility of a component." 
+
+**Use Action Words**
+
+Start prompts with clear action-oriented verbs.
+
+"Generate a Python script that reads data from a CSV file and outputs the average of a specific column." 
+
+**Specify Output Format**
+
+Indicate the desired format of the generated code (e.g., function, class).
+
+"Create a class in Java that represents a `Person` with attributes for name and age."
+
+**Give Examples**
+
+Provide sample code or desired behavior to guide the AI.
+
+"Here is an example of a function that sorts a list of numbers: `def sort_list(numbers):...`. Write a similar function in C++ to sort a list of strings." 
+
+**Specify Length**
+
+Mention the desired length or complexity of the generated code.
+
+"Write a concise Python function, no more than 10 lines of code, to check if a given string is a palindrome." 
+
+**Clarify Tone**
+
+Specify the desired tone or style of the generated code (e.g., professional).
+
+"Write a well-documented and professional-style function in Go to connect to a PostgreSQL database."
+
+**Iterate and Refine**
+
+Review the generated code and provide feedback for further improvements.
+
+"The generated Python function has a bug in the edge case for negative input. Can you fix it?" 
 
 ## Articles
 
