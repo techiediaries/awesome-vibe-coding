@@ -1,6 +1,7 @@
 # Awesome Vibe Coding
 
 > A curated list of vibe coding assistants, IDEs, tools and references for learning how to efficently collaborate with AI to write code. Best practices of prompt enginnering for developers.
+> AI-powered tools for coding and UX/UI design. Our focus is on tools that allow for generating code or designs using natural language prompts.
 
 ## Contents
 
