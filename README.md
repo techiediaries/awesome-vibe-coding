@@ -5,8 +5,10 @@
 ## Contents
 
 - What's Vibe Coding?
-- Articles
 - Tools
+- IDEs
+- Articles
+
 
 ## What's Vibe Coding?
 
