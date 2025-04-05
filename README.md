@@ -5,9 +5,16 @@
 ## Contents
 
 - What's Vibe Coding?
-- Tools
-- IDEs
-- Articles
+- AI Coding Assistants
+- Cloud-Based Tools
+- AI IDEs
+- IDEs with Built-in AI Assistance or Plugins
+- Programming by Prompt Tools
+- Marketplaces
+- AI-Powered UX/UI Design Tools
+- Extra
+- Prompt Engineering Best Practices for Vibe Coding
+- Must-Read Articles
 
 
 ## What's Vibe Coding?
@@ -16,10 +23,7 @@ Vibe coding is a style of programming that prioritizes intuition, rapid experime
 
 The term was coined by Andrej Karpathy in early 2025 to describe “fully giving in to the vibes” and almost forgetting that the code exists​
 
-[See](https://www.reddit.com/r/ChatGPTCoding/comments/1ihocsv/vibes_coding/#:~:text=,grows%20beyond%20my%20usual%20comprehension)
-
-
--   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383)  - "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. (.) I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works".AI coding assistants
+> Andrej Karpathy on X: "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. (.) I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works".
 
 ## AI Coding Assistants
 
@@ -34,7 +38,6 @@ AI coding assistants offer a range of core functionalities designed to enhance t
 
 - GitHub Copilot,
 - Tabnine,
-- Cursor AI,
 - Sourcegraph Cody,
 - Replit,
 - Codiga,
@@ -51,23 +54,22 @@ AI coding assistants offer a range of core functionalities designed to enhance t
 - MutableAI,
 - Qodo,
 - CodeRabbit,
-- CodeMate,
-- Windsurf
+- CodeMate
 
 ## Cloud-Based Tools
 
-- [same.dev](https://same.dev/) -
-- [Replit](https://replit.com/)  - "simply describe your idea above and let the Agent build it for you".
-- [Bolt.new](https://bolt.new/)  - prompt, run, edit, and deploy full-stack web and mobile apps.
-- [Lovable](https://lovable.dev/)  - "idea to app in seconds. Lovable is your superhuman full stack engineer".
-- [v0 by Vercel](https://v0.dev/chat)  - assistant to build NextJS frontend.
+- [same.dev](https://same.dev/): Clone any UI into a React app 
+- [Replit](https://replit.com/): simply describe your idea above and let the Agent build it for you
+- [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps
+- [Lovable](https://lovable.dev/): idea to app in seconds. Lovable is your superhuman full stack engineer
+- [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 
-## IDEs
+## AI IDEs
 
 These IDEs are specifically designed with AI at their core:
 
-- [Cursor](https://www.cursor.com/)  - AI Code Editor, "the best way to code with AI".
-- [Windsurf Editor by Codeium](https://codeium.com/windsurf)  - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
+- [Cursor](https://www.cursor.com/): AI Code Editor, "the best way to code with AI".
+- [Windsurf Editor by Codeium](https://codeium.com/windsurf): Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
 - Trae
 
 ## IDEs with Built-in AI Assistance or Plugins
@@ -130,7 +132,7 @@ LangChain provide developers with the tools to build sophisticated applications 
 
 
 
-## Prompt Engineering Best Practices for Code Generation
+## Prompt Engineering Best Practices for Vibe Coding
 
 **Be Specific**
 
@@ -180,7 +182,7 @@ Review the generated code and provide feedback for further improvements.
 
 "The generated Python function has a bug in the edge case for negative input. Can you fix it?" 
 
-## Articles
+## Must-Read Articles
 
 1.  [https://medium.com/@soumavadey/vibe-coding-the-art-of-new-ai-prompt-style-00e65dca25c6](https://medium.com/@soumavadey/vibe-coding-the-art-of-new-ai-prompt-style-00e65dca25c6)
 2.  [https://andrewchen.substack.com/p/predictionsthoughts-on-vibe-coding](https://andrewchen.substack.com/p/predictionsthoughts-on-vibe-coding)
