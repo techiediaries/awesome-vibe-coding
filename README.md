@@ -127,6 +127,10 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 - Visual Copilot: a Figma plugin that handles the code generation process, converting Figma designs into clean, production-ready code
 
   
+## Code Quality for Vibe Coding
+
+- [sober-coding](https://github.com/voidborne-d/sober-coding): The hangover cure for vibe coding. Language-agnostic CLI that scans for 27 AI-code smells (security, architecture, duplication, error handling, dependencies, testing, dead code). Sobriety scoring, fix suggestions, CI mode. Zero config.
+
 ## Extra
 
 LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
