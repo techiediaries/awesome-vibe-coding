@@ -5,6 +5,8 @@
 
 ## Contents
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - What's Vibe Coding?
 - AI Coding Assistants
 - Cloud-Based Tools
@@ -31,8 +33,6 @@ The term was coined by Andrej Karpathy in early 2025 to describe “fully giving
 These assistants generally aim to streamline the coding process by offering intelligent suggestions and automating repetitive tasks.
 AI coding assistants offer a range of core functionalities designed to enhance the software development process:
 
-- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
-- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - Code Completion and Suggestions
 - Natural Language to Code Conversion (Programming by Prompt)
 - AI Chat and Explanations
