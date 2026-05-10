@@ -131,6 +131,8 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 
 LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace): open-source TUI and report generator for inspecting AI coding-agent sessions, costs, tool calls, run history, health, diffs, and CI gates across local Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Qwen Code, Cline, OpenCode/OpenClaw, Kimi CLI, and JSON/JSONL traces.
+
 
 
 ## Prompt Engineering Best Practices for Vibe Coding
