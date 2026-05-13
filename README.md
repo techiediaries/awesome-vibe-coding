@@ -71,6 +71,7 @@ These IDEs are specifically designed with AI at their core:
 
 - [Cursor](https://www.cursor.com/): AI Code Editor, "the best way to code with AI".
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf): Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
+- [Parallel Code](https://github.com/johannesjo/parallel-code): Open-source desktop app for running multiple terminal-based coding agents side by side, with isolated git worktrees, terminal panes, diff review, and merge controls.
 - Trae
 
 ## IDEs with Built-in AI Assistance or Plugins
@@ -215,4 +216,3 @@ Review the generated code and provide feedback for further improvements.
 28.  [https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/](https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/)
 29.  [https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233](https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233)
 30.  [https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting](https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting)
-
