@@ -120,6 +120,7 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 - Attention Insight,
 - UX Pilot: aims to provide superfast UX/UI design capabilities through the use of AI
 - UX Pilot's Hifi Designer: can instantly create high-fidelity UI designs in seconds using AI
+- igly.ai: AI image editing platform for preparing visual assets with background removal, inpainting, upscaling, and generative fill. https://igly.ai
 - Motiff: offers an AI-powered professional interface design tool with a focus on efficiency and collaboration.
 - Motiff AI Layout: helps in creating structured designs, and an AI Magic Box that suggests the best-fitting UI component based on a dragged box and a text prompt
 - Visily: make UI design software accessible to everyone, regardless of their design expertise. Visily's Text to Design feature can convert text prompts into fully customizable high-fidelity UI designs, eliminating the need to start from a blank canvas.
@@ -215,4 +216,3 @@ Review the generated code and provide feedback for further improvements.
 28.  [https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/](https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/)
 29.  [https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233](https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233)
 30.  [https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting](https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting)
-
