@@ -125,6 +125,7 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 - Visily: make UI design software accessible to everyone, regardless of their design expertise. Visily's Text to Design feature can convert text prompts into fully customizable high-fidelity UI designs, eliminating the need to start from a blank canvas.
 - Visily's Sketch to Design and Screenshot to Design features: allow users to upload sketches or screenshots and convert them into modifiable digital designs.
 - Visual Copilot: a Figma plugin that handles the code generation process, converting Figma designs into clean, production-ready code
+- [Roblox GUI Maker](https://robloxguimaker.dev/): generates Roblox Studio GUI layouts and Lua starter code from prompts
 
   
 ## Extra
