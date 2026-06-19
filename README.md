@@ -63,6 +63,7 @@ AI coding assistants offer a range of core functionalities designed to enhance t
 - [Replit](https://replit.com/): simply describe your idea above and let the Agent build it for you
 - [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps
 - [Lovable](https://lovable.dev/): idea to app in seconds. Lovable is your superhuman full stack engineer
+- [Playcode](https://playcode.io/ai-website-builder): AI website and app builder with visual editing, hosting, and custom domains
 - [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 
 ## AI IDEs
@@ -215,4 +216,3 @@ Review the generated code and provide feedback for further improvements.
 28.  [https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/](https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/)
 29.  [https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233](https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233)
 30.  [https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting](https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting)
-
