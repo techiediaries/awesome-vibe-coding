@@ -215,4 +215,4 @@ Review the generated code and provide feedback for further improvements.
 28.  [https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/](https://www.zdnet.com/article/what-is-ai-vibe-coding-its-all-the-rage-but-its-not-for-everyone-heres-why/)
 29.  [https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233](https://medium.com/@askeric/vibe-coding-is-reshaping-the-way-we-build-learn-and-innovate-18da4f461233)
 30.  [https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting](https://www.poised.com/blog/the-rise-of-vibe-coding-when-ai-does-the-heavy-lifting)
-
+31.  [AI Coding Tools Guide: Cursor Alternatives](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/) - Workflow-based comparison of Cursor alternatives including Windsurf, Claude Code, Cline, GitHub Copilot, Trae, Aider, Continue, and MCP-enabled setups.
