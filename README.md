@@ -15,6 +15,7 @@
 - AI-Powered UX/UI Design Tools
 - Extra
 - Prompt Engineering Best Practices for Vibe Coding
+- Books
 - Must-Read Articles
 
 
@@ -182,6 +183,10 @@ Specify the desired tone or style of the generated code (e.g., professional).
 Review the generated code and provide feedback for further improvements.
 
 "The generated Python function has a bug in the edge case for negative input. Can you fix it?" 
+
+## Books
+
+- [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding): build apps that work beyond the demo. Plan, build, debug, harden, ship, operate, and scale.
 
 ## Must-Read Articles
 
