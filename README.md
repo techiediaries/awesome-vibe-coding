@@ -110,6 +110,7 @@ Marketplaces for creating, sharing, and discovering effective prompts for AI mod
 
 - PromptBase
 - PromptHero 
+- [Meez](https://meez.design): art-directed website build-prompt library — 15 free with full text — for Lovable, Bolt, v0, Cursor and Claude
 
 ## AI-Powered UX/UI Design Tools
 
