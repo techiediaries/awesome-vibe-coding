@@ -103,6 +103,7 @@ The paradigm of programming by prompt, or natural language to code conversion, i
 - AIPRM
 - PromptHub
 - OpenAI Playground
+- [agent-qa](https://github.com/vostride/agent-qa): self-improving QA agent for natural-language web/mobile tests with persistent memory, CLI, MCP, and Agent Skills
 
 ## Marketplaces
 
