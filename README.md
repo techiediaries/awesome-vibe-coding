@@ -130,8 +130,7 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
 ## Extra
 
 LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
-
-
+- [VibeHacker](https://vibehacker.com) - Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 ## Prompt Engineering Best Practices for Vibe Coding
 
