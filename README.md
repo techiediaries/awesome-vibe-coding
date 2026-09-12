@@ -129,6 +129,8 @@ The field of UX/UI design is also experiencing a significant impact from AI, wit
   
 ## Extra
 
+- [ContextStream](https://contextstream.io) — Shared project context for Cursor, Claude Code, Codex, Grok. MCP: https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is.
+
 LangChain provide developers with the tools to build sophisticated applications with LLMs, including managing and chaining prompts for complex workflows.
 
 
