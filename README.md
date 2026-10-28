@@ -64,6 +64,7 @@ AI coding assistants offer a range of core functionalities designed to enhance t
 - [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps
 - [Lovable](https://lovable.dev/): idea to app in seconds. Lovable is your superhuman full stack engineer
 - [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+- [AppWizzy](https://appwizzy.com/): generate and edit business web apps from prompts in dedicated cloud development VMs, with runtime templates and Git-based source editing
 
 ## AI IDEs
 
